@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Fitclub/static/css/main.4bce94d6.css",
+    "main.js": "/Fitclub/static/js/main.0b12d96f.js",
+    "static/js/496.6f3c7b2f.chunk.js": "/Fitclub/static/js/496.6f3c7b2f.chunk.js",
+    "static/media/workout4.jpg": "/Fitclub/static/media/workout4.5ba788ad84c83f6a949f.jpg",
+    "static/media/hero_image.png": "/Fitclub/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/workout1.png": "/Fitclub/static/media/workout1.1d23e730becfe10357fa.png",
+    "static/media/pic3.avif": "/Fitclub/static/media/pic3.30e7547f4c67ba85ca8c.avif",
+    "static/media/workout3.jpg": "/Fitclub/static/media/workout3.e4038f2a42813a877edf.jpg",
+    "static/media/adidas.png": "/Fitclub/static/media/adidas.38e6da2f1300cac2473a.png",
+    "static/media/pic1.jpg": "/Fitclub/static/media/pic1.b1f660b0b2fdd431cb4d.jpg",
+    "static/media/pic2.jpg": "/Fitclub/static/media/pic2.b1c21eab779ca5cde072.jpg",
+    "static/media/workout2.avif": "/Fitclub/static/media/workout2.c77664096744e875a962.avif",
+    "static/media/instagram.png": "/Fitclub/static/media/instagram.776d16d0e9daa177afd5.png",
+    "static/media/hero_image_backsd.png": "/Fitclub/static/media/hero_image_backsd.9f54bfba33048f4ca688.png",
+    "static/media/github.png": "/Fitclub/static/media/github.f11021803f68852df283.png",
+    "index.html": "/Fitclub/index.html",
+    "main.4bce94d6.css.map": "/Fitclub/static/css/main.4bce94d6.css.map",
+    "main.0b12d96f.js.map": "/Fitclub/static/js/main.0b12d96f.js.map",
+    "496.6f3c7b2f.chunk.js.map": "/Fitclub/static/js/496.6f3c7b2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bce94d6.css",
+    "static/js/main.0b12d96f.js"
+  ]
+}
