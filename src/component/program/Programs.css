@@ -1,0 +1,56 @@
+.Programs {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 0 2rem;
+}
+.programs-header {
+  display: flex;
+  gap: 6rem;
+  font-weight: bold;
+  font-size: 3rem;
+  justify-content: center;
+  color: white;
+  text-transform: uppercase;
+}
+.programs-catagories {
+  display: flex;
+  gap: 1rem;
+}
+.catagory {
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  padding: 2rem;
+  gap: 1rem;
+  color: white;
+  justify-content: space-between;
+}
+
+.catagory > :nth-child(1) {
+  width: 1rem;
+  height: 2rem;
+  fill: white;
+}
+.catagory > :nth-child(2) {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.catagory > :nth-child(3) {
+  font-size: 0.9rem;
+  line-height: 25px;
+}
+
+.join_now {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.rightarrow {
+  width: 3rem;
+}
+.catagory:hover {
+  background: var(--orange);
+  cursor: pointer;
+}
